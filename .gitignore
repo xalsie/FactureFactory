@@ -1,0 +1,11 @@
+# Logs
+logs
+*.log
+
+# Dev folder
+Dev/*
+
+# All Facture create
+Facture - Coiffeur/*.pdf
+Facture - Tattoo/*.pdf
+Facture - YJack/*.pdf
